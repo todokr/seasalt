@@ -1,4 +1,4 @@
-# SeaSalt - A Toy seasalt.Key seasalt.Value Store
+# SeaSalt - A Toy Key Value Store
 
 ## Commands
 
